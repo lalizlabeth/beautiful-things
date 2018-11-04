@@ -1,0 +1,38 @@
+$pink: #ec469c;
+
+body, html, canvas {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a {
+    font-family: 'Passion One';
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    text-transform: uppercase;
+}
+
+header {
+    padding: 25px 0;
+}
+
+canvas {
+    margin: 0;
+}
+
+// #world {
+//     height: 100%;
+//     width: 100%;
+// }
